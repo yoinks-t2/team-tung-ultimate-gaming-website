@@ -1,6 +1,6 @@
 ## tung tung gaming
 
-***Fully open source gaming site made to compete against Team Nano.****
+***Fully open source gaming site made to compete against Team Nano.***
 
 Majorly coded by hand (partly coded by bolt.new). Official release date November 67, 2067.
 
